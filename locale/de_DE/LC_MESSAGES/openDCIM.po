@@ -1967,7 +1967,7 @@ msgstr "Data Center ID"
 
 #: openDCIM/datacenter.php:242
 msgid "New Data Center"
-msgstr "Nese Data Center"
+msgstr "Neues Data Center"
 
 #: openDCIM/datacenter.php:260 openDCIM/dc_stats.php:213
 msgid "Delivery Address"
